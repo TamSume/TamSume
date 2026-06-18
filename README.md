@@ -1,4 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=250CFF&size=35&center=false&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+João+Dionizio;Desenvolvedor+Web+Full-Stack)](https://git.io/typing-svg)
+
+## About me
+
+I'm a student of Interaction Design at PUC-SP and Web Development at Trybe, in addition, I'm an Electronics Technician at ETESP.
+I am currently mastering JavaScript, I'm studying Python and I'm looking forward to learning Flutter.
+I am familiar with frameworks and tools like React, Figma, Adobe Illustrator, Adobe XD, Visual Studio and with other programs like Slack, Notion, Git, and GitHub.
+I'm a very communicative person, passionate about problem-solving and accessibility and I'm looking forward to starting out in the job market as a UX/UI Designer and Front-end Developer.
 
 <!--
 **TamSume/TamSume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
